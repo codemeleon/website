@@ -18,9 +18,9 @@ The RiboGalaxy project is supported in part by a Grant from Science Foundation I
 
 If you are publishing using the RiboGalaxy workflows, please cite the following publications:
 
-> Michel, Audrey M., et al. "RiboGalaxy: A browser based platform for the alignment, analysis and visualization of ribosome profiling data." RNA Biol., vol. 13, no. 3, 2016, pp. 316-9, DOI:10.1080/15476286.2016.1141862; PMID: 26821742; PMCID: PMC4829337 .
+> Michel, Audrey M., et al. "RiboGalaxy: A browser based platform for the alignment, analysis and visualization of ribosome profiling data." RNA Biol., vol. 13, no. 3, 2016, pp. 316-9, [DOI:10.1080/15476286.2016.1141862](https://doi.org/10.1080/15476286.2016.1141862); [PMID: 26821742](https://pubmed.ncbi.nlm.nih.gov/26821742); [PMCID: PMC4829337](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc4829337/).
 
-> Fedorova, Alla D., et al. "RiboGalaxy: A Galaxy-based Web Platform for Ribosome Profiling Data Processing - 2023 Update." J. Mol. Biol., vol. 435, no. 14, 15 July 2023, p. 168043., DOI:10.1016/j.jmb.2023.168043 PMID: 37356899.
+> Fedorova, Alla D., et al. "RiboGalaxy: A Galaxy-based Web Platform for Ribosome Profiling Data Processing - 2023 Update." J. Mol. Biol., vol. 435, no. 14, 15 July 2023, p. 168043., [DOI:10.1016/j.jmb.2023.168043](https://doi.org/10.1016/j.jmb.2023.168043) [PMID: 37356899](https://pubmed.ncbi.nlm.nih.gov/37356899).
 
 # Contact
 
